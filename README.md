@@ -1,0 +1,1 @@
+In 2014 an experiment was performed at the National Superconducting Cyclotron Laboratory (NSCL) to study the proton inelastic scattering of neutron-rich 68,70,72Ni isotopes and infer on the neutron contribution to the observed quadrupole collectivity in these nuclei.
